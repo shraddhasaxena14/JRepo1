@@ -1,0 +1,16 @@
+D:\LTI Project\prjapplication\prjapplication\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+D:\LTI Project\prjapplication\prjapplication\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTI Project\prjapplication\prjapplication\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\LTI Project\prjapplication\prjapplication\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\LTI Project\prjapplication\prjapplication\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\LTI Project\prjapplication\prjapplication\Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\LTI Project\prjapplication\prjapplication\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\LTI Project\prjapplication\prjapplication\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\LTI Project\prjapplication\prjapplication\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\LTI Project\prjapplication\prjapplication\Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\LTI Project\prjapplication\prjapplication\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+D:\LTI Project\prjapplication\prjapplication\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\LTI Project\prjapplication\prjapplication\Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\LTI Project\prjapplication\prjapplication\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+D:\LTI Project\prjapplication\prjapplication\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\LTI Project\prjapplication\prjapplication\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache

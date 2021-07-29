@@ -1,0 +1,16 @@
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\obj\Debug\net5.0\CollectionEg.csproj.AssemblyReference.cache
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\obj\Debug\net5.0\CollectionEg.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\obj\Debug\net5.0\CollectionEg.AssemblyInfoInputs.cache
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\obj\Debug\net5.0\CollectionEg.AssemblyInfo.cs
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\obj\Debug\net5.0\CollectionEg.csproj.CoreCompileInputs.cache
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\bin\Debug\net5.0\CollectionEg.exe
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\bin\Debug\net5.0\CollectionEg.deps.json
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\bin\Debug\net5.0\CollectionEg.runtimeconfig.json
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\bin\Debug\net5.0\CollectionEg.runtimeconfig.dev.json
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\bin\Debug\net5.0\CollectionEg.dll
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\bin\Debug\net5.0\ref\CollectionEg.dll
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\bin\Debug\net5.0\CollectionEg.pdb
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\obj\Debug\net5.0\CollectionEg.dll
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\obj\Debug\net5.0\ref\CollectionEg.dll
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\obj\Debug\net5.0\CollectionEg.pdb
+D:\LTI Project\prjapplication\prjapplication\CollectionEg\obj\Debug\net5.0\CollectionEg.genruntimeconfig.cache
